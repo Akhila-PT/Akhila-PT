@@ -17,7 +17,8 @@
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3>Skills</h3>
+<h3 align="left">Languages and tools:</h3>
+
 <table cellspacing = "10">
   <tr>
     <td>  <table border = "1">
@@ -30,15 +31,18 @@
           <td>⭐️⭐️⭐️</td>
         </tr>
         <tr>
-          <td>My SQL</td>
+          <td>SQL</td>
+          <td>⭐️⭐️⭐️</td>
+        </tr>
+         <td>R </td>
           <td>⭐️⭐️⭐️</td>
         </tr>
         <tr>
           <td>Python</td>
           <td>⭐️⭐️</td>
         </tr>
-        <tr>
       </table>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhila&show_icons=true&theme=dracula&title_color=e63b7a&text_color=f4a4c0&locale=en&layout=compact" alt="akhila" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhila&show_icons=true&theme=radical&title_color=e63b7a&text_color=f4a3c0&locale=en" alt="akhila" /></p>
