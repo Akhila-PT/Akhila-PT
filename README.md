@@ -7,7 +7,7 @@
 
 - 📫 Reach me on **www.linkedin.com/in/akhila177**
 
-- ⚡ Fun fact **I'm on a quest to find the perfect anime to binge-watch next! Recommendations are always welcome!**
+- ⚡ Fun fact **I'm on a quest to find the perfect anime to binge-watch! Recommendations are always welcome!**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
